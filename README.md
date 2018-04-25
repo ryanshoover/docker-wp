@@ -3,6 +3,8 @@ Docker setup for WP local development
 
 This is a combination of a `docker-compose.yml` file and an alias for wp-cli activity.
 
+## Installation
+
 Move the `docker-compose.yml` to the root folder for your WordPress installation
 - For example, `~/code/wordpress/docker-compose.yml`
 
